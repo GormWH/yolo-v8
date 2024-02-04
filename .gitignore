@@ -5,3 +5,8 @@ img/
 regenerated_img/
 resized_img/
 runs/
+
+input/
+models/
+output/
+ipynb/
